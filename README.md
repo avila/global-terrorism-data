@@ -1,3 +1,6 @@
+![GTD](https://github.com/mr-avila/global-terrorism-data/blob/master/map_all.png)
+
+
 Final assignment for the course: Betriebssystem und Programmierung - Lehrveranstaltung 3 (Python) under the supervision of Prof. Dr. Kristian Rother.
 
 Students:
@@ -11,5 +14,3 @@ The main tools used in this project are:
 - pandas
 - basemap
 - folium
-
-![GTD](https://github.com/mr-avila/global-terrorism-data/blob/master/map_all.png)
