@@ -14,3 +14,5 @@ The main tools used in this project are:
 - pandas
 - basemap
 - folium
+
+An interactive output of this work can be found in http://userpage.fu-berlin.de/avila/py/map_europe.html
