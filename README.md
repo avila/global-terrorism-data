@@ -15,4 +15,4 @@ The main tools used in this project are:
 - basemap
 - folium
 
-An interactive output of this work can be found in http://userpage.fu-berlin.de/avila/py/map_europe.html
+An interactive output of this work [can be found here](https://avila.github.io/py/map_europe.html).
